@@ -1,1 +1,1 @@
-print("Hello IFS!")
+print("Hello new IFS!")
