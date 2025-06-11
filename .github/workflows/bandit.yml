@@ -21,4 +21,4 @@ jobs:
 
       - name: Run Bandit
         run: |
-          bandit -r your_project/ -lll --exit-zero
+          bandit -r intro.py -lll --exit-zero
